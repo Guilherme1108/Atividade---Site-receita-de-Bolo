@@ -1,0 +1,47 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+  h1{
+    color: #000000;
+    text-align: center;
+    font-size: 4rem;
+      background-color: burlywood;
+     padding: 16px;
+    margin: 16px;
+  }
+  img{
+    margin: 32px;
+    width:560px;
+  }
+  h2{
+    text-align: center;
+    color: #000000;
+  font-size: 2rem;
+      background-color: burlywood;
+     padding: 16px;
+    margin: 16px;
+  }
+  ul{
+    list-style:square;
+    margin: 16px;
+    font-size:  1rem;
+  }
+  ul2{
+  list-style: numbers;
+    margin: 16px;
+    font-size: 2rem;
+  }
+  li{
+  margin: 16px;
+  font-size: 1rem;
+  }
+
+  footer {
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    margin: 16px;
+    font-size: 1rem;
+  }
+
